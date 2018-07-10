@@ -1,0 +1,4 @@
+package com.zhaodi.service;
+public interface UserService {
+    public String getName();
+}
